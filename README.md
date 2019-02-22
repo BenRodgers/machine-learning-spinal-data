@@ -14,8 +14,9 @@ The performance results
 
 
 <h1> Outcome </h1>
-
-Accuracy of Random Forest Classifier 0.775862069
-Accuracy of Naive Bayes 0.758620690
-Accuracy of kNN 0.810344828
-Accuracy of Gradient Boosting XGBoost 0.862068966
+<li>
+  <ul> Accuracy of Random Forest Classifier 0.775862069 </ul>
+  <ul> Accuracy of Naive Bayes 0.758620690 </ul>
+  <ul> Accuracy of kNN 0.810344828 </ul>
+  <ul> Accuracy of Gradient Boosting XGBoost 0.862068966 </ul>
+</li>
